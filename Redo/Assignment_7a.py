@@ -16,7 +16,6 @@ arcpy.management.SelectLayerByLocation(flayer, "WITHIN_A_DISTANCE", "us_rivers",
 my_cnt = arcpy.management.GetCount(flayer)
 print(f"Selected cities is: {my_cnt}")
 
-flayer = arcpy.MakeFeatureLayer_management("cities", "Cities_Layer")
 field = 'POP1990'
 total = 0
 i = 1
