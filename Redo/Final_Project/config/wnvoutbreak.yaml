@@ -1,0 +1,6 @@
+remote_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSoxVIp1MtuVSnC_UtgwfYVnBvj6alY1iy-Vcq6TydlAhR-DMaVAmGnz7pDQ4WbRkaPGFNwa14iupcK/pub?output=csv
+proj_dir: C:/Users/benlj/OneDrive/Documents/School/SpringSemester2025/ProgrammingForGIS/Lab_1/Programming_Lab1
+data_format: csv
+destination: C:/Users/benlj/OneDrive/Documents/School/SpringSemester2025/ProgrammingForGIS/Lab_1/Programming_Lab1/Programming_Lab1.gdb
+geocoder_prefix_url: https://geocoding.geo.census.gov/geocoder/locations/onelineaddress
+geocoder_suffix_url: ?&benchmark=2020&format=json
